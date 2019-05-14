@@ -204,7 +204,8 @@ body {
   margin: 4rem auto 0;
   position: relative;
   width: 8rem;
-  height: 2rem;
+  height: 8rem;
+  padding-bottom: 4rem;
 }
 .loader div {
   display: inline-block;
